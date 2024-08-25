@@ -1,22 +1,20 @@
 {
-    "name": "com.tiagobraga.chatecho",
-    "version": "0.0.1",
-    "displayName": "Occlusion Mask",
-    "description": "This is an example package",
-    "unity": "2022.3",
-    "unityRelease": "",
-    "documentationUrl": "",
-    "changelogUrl": "",
-    "licensesUrl": "",
-    "dependencies": {},
-   "keywords": [
-      "keyword1",
-      "keyword2",
-      "keyword3"
-    ],
-    "author": {
-      "name": "Tiago Braga",
-      "email": "braga.tiagoxavier@gmail.com",
-      "url": "https://www.unity3d.com"
-    }
+  "name": "com.tiagobraga.occlusion3dmask",
+  "version": "0.0.1",
+  "displayName": "Occlusion 3D Mask",
+  "description": "This is an example package",
+  "unity": "2022.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Tiago Braga",
+    "email": "braga.tiagoxavier@gmail.com",
+    "url": "https://www.unity3d.com"
   }
+}
