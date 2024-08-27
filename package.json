@@ -1,20 +1,20 @@
 {
   "name": "com.tiagobraga.occlusion3dmask",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "displayName": "Occlusion 3D Mask",
-  "description": "This is an example package",
+  "description": "A Unity package that implements a 3D occlusion mask to guarantee the player's visibility, preventing walls and other obstacles from blocking the view during the game.",
   "unity": "2022.3",
-  "documentationUrl": "",
-  "changelogUrl": "",
-  "licensesUrl": "",
+  "documentationUrl": "https://github.com/tiago-xavier-braga/Occlusion3DMask/blob/main/README.md",
+  "changelogUrl": "https://github.com/tiago-xavier-braga/Occlusion3DMask/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/tiago-xavier-braga/Occlusion3DMask/blob/main/LICENSE.md",
   "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
+    "occlusion3dmask",
+    "occlusion",
+    "shader"
   ],
   "author": {
     "name": "Tiago Braga",
     "email": "braga.tiagoxavier@gmail.com",
-    "url": "https://www.unity3d.com"
+    "url": "https://github.com/tiago-xavier-braga/Occlusion3DMask"
   }
 }
